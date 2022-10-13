@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  display: flex;
+}
+main {
+  width: 100%;
+  padding: 20px;
+}
+
+.sidebar {
+  background-color: rgb(90, 86, 86);
+  color: #fff;
+  height: 100vh;
+}
+.top_section {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.logo {
+  font-size: 25px;
+}
+
+.bars {
+  display: flex;
+  font-size: 25px;
+}
